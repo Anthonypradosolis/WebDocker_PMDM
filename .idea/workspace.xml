@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="046a724f-bba8-4e84-80b1-e50ee62fc5db" name="Changes" comment="modifico el hola mundo" />
+    <list default="true" id="046a724f-bba8-4e84-80b1-e50ee62fc5db" name="Changes" comment="imagen con alpine" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Anthonypradosolis"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anthonypradosolis/WebDocker_PMDM.git",
+    "accountId": "865fe085-ea22-4d44-a8a5-68562b19453a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -77,12 +89,30 @@
       <option name="project" value="LOCAL" />
       <updated>1741606499906</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="añado el holamundo en el copy">
+      <option name="closed" value="true" />
+      <created>1741606553680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741606553680</updated>
+    </task>
+    <task id="LOCAL-00004" summary="imagen con alpine">
+      <option name="closed" value="true" />
+      <created>1741606976989</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741606976989</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Subiendo todo el proyecto de WebDocker en la materia PMDM" />
     <MESSAGE value="modifico el hola mundo" />
-    <option name="LAST_COMMIT_MESSAGE" value="modifico el hola mundo" />
+    <MESSAGE value="añado el holamundo en el copy" />
+    <MESSAGE value="imagen con alpine" />
+    <option name="LAST_COMMIT_MESSAGE" value="imagen con alpine" />
   </component>
 </project>

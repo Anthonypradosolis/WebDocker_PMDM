@@ -19,5 +19,5 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 
     if __name__ == '__main__':
         print_hi('PyCon')
-        with socketserver.TCPServer(("", 8000), Handler) as httpd:
+        with socketserver.TCPServer(("", 8080), Handler) as httpd:
             httpd.serve_forever()

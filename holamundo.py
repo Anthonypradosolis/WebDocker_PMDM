@@ -7,7 +7,8 @@ from logging import Handler
 class Handler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         self.send_response(HTTPStatus.OK)
-        self.send_header()
+        self.send_header('Content-type', 'text/html')
+        self.end_headers()
         self.wfile.write(b'Hello, world')
 
 
